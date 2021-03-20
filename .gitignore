@@ -1,0 +1,5 @@
+.DS_Store
+
+.idea/
+.clang-format
+cmake-build-debug/
